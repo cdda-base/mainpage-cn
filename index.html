@@ -5,11 +5,10 @@ title: CDDA幸存者基地
 <ul class="posts">
     {% for post in paginator.posts %}
     <li class="post">
-        <small>{{ post.date | date_to_string }}</small>
         <small><a style="color:grey" href="{{ BASE_PATH }}{{ post.url }}#disqus_thread"></a></small>
         <br>
-        <a class="nice-title" href="{{ post.url | relative_url }}">{{ post.title }}</a>
-        <p class="nice-text">{{ post.content | strip_html | truncatewords: 50 }} <a href="{{ post.url | relative_url }}">点击进入</a></p>
+        <a class="nice-title" href="../{{ post.link }}">{{ post.title }}</a>
+        <p class="nice-text">{{ post.content | strip_html | truncatewords: 100 }} <a href="../{{ post.link }}">点击前往</a></p>
     </li>
     {% endfor %}
     {% include pagination.html %}
