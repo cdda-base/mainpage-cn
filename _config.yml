@@ -10,14 +10,12 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Soot Spirits
-tagline: Code, Science, Philosophy, Humor
+title : CDDA幸存者基地
+tagline: 为幸存者提供资源的场所
 author :
-  name : Abhishek Nagekar
-  email : abhishek@nagekar.com
-  github : abhn
-  twitter : abhisheknagekar
-  feedburner : AbhishekN
+  name : CDDA幸存者基地
+  email : cddamods@outlook.com
+  github : cdda-base
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
