@@ -33,13 +33,13 @@ busuanzi:
   enable: true
   src: //cdn.jsdelivr.net/npm/busuanzi/bsz.pure.mini.js
   page_pv:
-    alert: 总阅读量
+    alert: 本页总阅读量
     unit: 次
   site_pv:
     alert: 本站总访问量
     unit: 次
   site_uv:
-    alert: 本站访客数
+    alert: 本站总访客数
     unit: 人次
 
 JB :
