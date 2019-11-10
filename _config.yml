@@ -14,7 +14,7 @@ title : CDDA幸存者基地
 tagline: 为幸存者提供资源的场所
 author :
   name : CDDA幸存者基地
-  email : cddamods@outlook.com
+  email : cddabase@outlook.com
   github : cdda-base
 
 # The production_url is only used when full-domain names are needed
@@ -25,7 +25,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : https://cdda-base.github.io
+production_url : https://cddabase.site/
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
