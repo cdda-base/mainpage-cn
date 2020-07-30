@@ -3,4 +3,4 @@ title : "CDDA物品大百科"
 layout : post
 link : "https://cddabase.site/cdda-encyclopedia/index.html"
 ---
-这里有非常非常全的（完全全是不可能的，cdda更新那么快）物品列表，搜索功能可以助你轻松找到想了解的物品的信息，物品参数配方全部都有，甚至还有物品的json信息哦！这不仅仅是玩家的福利，更是Mod开发者的福利.因为物品量太大，加载可能会比较慢，请耐心等待。转载翻译完善自国外友人lispcoc的物品大百科，感谢lispcoc的制作和授权
+该百科已具有较严重的过时性，请使用友联中的物品浏览器。转载翻译完善自国外友人lispcoc的物品大百科，感谢lispcoc的制作和授权
